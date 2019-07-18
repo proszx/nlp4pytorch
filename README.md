@@ -1,2 +1,2 @@
 # deep-learning
-## 这个是练手
+## 本项目基于pytorch实现
